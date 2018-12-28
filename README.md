@@ -10,5 +10,5 @@
     - python은 익숙치 않아서 큰 일
   * [2018-12-28] [column 생성 및 데이터 처리](https://github.com/miniii222/5th_L.point_bigdata_competiton/tree/master/EDA)
     - product 데이터 : hits=1 인 경우 삭제
-    - master 데이터 : 대대분류 분류에서 추가
+    - master 데이터 : [대대분류 분류에서 추가](https://github.com/miniii222/5th_L.point_bigdata_competiton/blob/master/EDA/EDA_02.master.ipynb)
     - session 데이터 : 주말효과
