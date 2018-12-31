@@ -13,4 +13,4 @@
     - master 데이터 : [대대분류 분류 추가](https://github.com/miniii222/5th_L.point_bigdata_competiton/blob/master/EDA/EDA_02.master.ipynb)
     - session 데이터 : 주말효과 -> new_session.csv
   * [2018-12-30] [clustering]
-  - mixed-type SOM 참고 논문 [link:](https://www.sciencedirect.com/science/article/pii/S1568494612001731)
+    - mixed-type SOM 참고 논문 [link:](https://www.sciencedirect.com/science/article/pii/S1568494612001731)
