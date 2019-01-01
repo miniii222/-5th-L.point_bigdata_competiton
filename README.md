@@ -15,3 +15,6 @@
   * [2018-12-30] [clustering]
     - mixed-type SOM 참고 논문 [link:](https://www.sciencedirect.com/science/article/pii/S1568494612001731)
   * [2019-01-01]
+    - 20대 여성에 대해서 의미있는 것 같기도 하고...
+    - 상품군별 유의미한 변수를 알기 위한 모델링 (elastic net, ols)
+    - 전체 데이터를 이용한 clustering
