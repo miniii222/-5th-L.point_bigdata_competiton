@@ -14,3 +14,4 @@
     - session 데이터 : 주말효과 -> new_session.csv
   * [2018-12-30] [clustering]
     - mixed-type SOM 참고 논문 [link:](https://www.sciencedirect.com/science/article/pii/S1568494612001731)
+  * [2019-01-01]
