@@ -19,5 +19,6 @@
     - 상품군별 유의미한 변수를 알기 위한 모델링 (elastic net, ols)
     - 전체 데이터를 이용한 clustering
   * [2019-01-03]
+    - clustering을 위해 merge한 데이터 : merged_data.csv
     - 주말효과 넣은 clustering
     - 새로운 데이터가 들어갔을 때, cluster간의 거리와 비율을 이용하여 index 출력하는 
