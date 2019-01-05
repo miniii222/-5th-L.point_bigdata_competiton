@@ -22,3 +22,6 @@
     - clustering을 위해 merge한 데이터 : merged_data.csv
     - 주말효과 넣은 clustering
     - 새로운 데이터가 들어갔을 때, cluster간의 거리와 비율을 이용하여 index 출력하는 
+  * [2019-01-04]
+    - clustering 후, 비율처리 하는 것 수정 예정
+    - search1 파일에서 konlpy 이용하여 브랜드이름 뽑을 
