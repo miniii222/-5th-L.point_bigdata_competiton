@@ -26,4 +26,4 @@
     - clustering 후, 비율처리 하는 것 수정 예정
     - search1 파일에서 konlpy 이용하여 브랜드이름 뽑을 
   * [2019-01-08]
-    - search1 데이터 : [파일에서 브랜드 칼럼 저장] -> Search1_brand.csv
+    - search1 데이터 : [파일에서 브랜드 칼럼 저장](https://github.com/miniii222/5th_L.point_bigdata_competiton/blob/master/text/Search_extract_brand.ipynb) -> Search1_brand.csv
