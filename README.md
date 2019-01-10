@@ -27,3 +27,7 @@
     - search1 파일에서 konlpy 이용하여 브랜드이름 뽑을 
   * [2019-01-08]
     - search1 데이터 : [파일에서 브랜드 칼럼 저장](https://github.com/miniii222/5th_L.point_bigdata_competiton/blob/master/text/Search_extract_brand.ipynb) -> Search1_brand.csv
+  * [2019-01-09]
+    - 클러스터링의 문제점 발견 -> 절망적!
+    - 브랜드 칼럼 + 상품명 칼럼
+    - 날씨 데이터 
