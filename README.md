@@ -38,6 +38,6 @@
     - 네이버 데이터랩 데이터 칼럼 
     - 상관관계 분석 후 선호지수 생성
   * [2019-01-14]
-    - 대대분류 별 lstm 
+    - [대대분류에 따른 lstm 모델링](https://github.com/miniii222/-/blob/master/modeling/trend_prediction_total.ipynb)
     - 각 category 별 index scoring
     - ppt를 위한 EDA 시각화 정리 및 ppt방향 
