@@ -39,3 +39,5 @@
     - 상관관계 분석 후 선호지수 생성
   * [2019-01-14]
     - 대대분류 별 lstm 
+    - 각 category 별 index scoring
+    - ppt를 위한 EDA 시각화 정리 및 ppt방향 
