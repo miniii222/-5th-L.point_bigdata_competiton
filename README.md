@@ -1,6 +1,14 @@
 # 5th L.point_bigdata_competiton
 
-* 진행 과정
+### * Digital Trend Analyzer (부제 : 온라인 행동 기반 트렌드 예측)
+    
+    * 세부과제    
+     1. 주요 상품군별 온라인 선호지수 생성
+     2. 상품군별 수요 트랜드 예측 및 인사이트 도출
+     3. 1,2 를 활용한 신규 서비스 
+
+
+### * 진행 과정
   
   * [2018-12-25] [EDA](https://github.com/miniii222/5th_L.point_bigdata_competiton/tree/master/EDA)
   * [2018-12-26] 아이디어 회의 및 스케줄 조정
